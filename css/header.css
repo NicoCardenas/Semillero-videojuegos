@@ -1,0 +1,88 @@
+@import url('fonts.css');
+
+/* header */
+header {
+	width: 100%;
+	float: left;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&0.65+0,0.65+100 */
+	background: -moz-linear-gradient(top,  rgba(0,0,0,1) 0%, rgba(0,0,0,1) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top,  rgba(0,0,0,1) 0%,rgba(0,0,0,1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom,  rgba(0,0,0,1) 0%,rgba(0,0,0,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', endColorstr='#a6000000',GradientType=0 ); /* IE6-9 */
+}
+
+
+#subheader {
+	width: 80%;
+	margin: auto;
+}
+
+#logotipo {
+	float: left;
+	width: 30%;
+	padding: 15px;
+}
+
+#logotipo a {
+	font-family: lobster;
+	font-size: 30px;
+	color: #B40404;
+}
+
+#logotipo a:hover {
+	text-decoration: none;
+}
+
+/*--Menu--*/
+header #subheader nav {
+	float: left;
+	width: 70%;
+	padding: 30px 0px;
+	text-align: right;
+}
+
+header #subheader nav ul li {
+	display: inline;
+	font-family: indieflower;
+}
+
+header #subheader nav ul li a {
+	color: #848484;
+	font-size: 28px;
+	padding: 0px 10px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
+header #subheader nav ul li a:hover {
+	color: #8A0808;
+	background: #424242;
+	text-decoration: none;
+}
+
+#logotipo p {
+	display: inline-block;
+	padding: 10px
+}
+
+#logotipo img {
+	height: 80px;
+	width: 100px;
+	display: inline-block;
+}
+
+/* footer*/
+footer {
+	color: red;
+	background: black;
+}
+
+footer div p {
+	text-align: center;
+	margin: 10px;
+}
+
+.white2 {
+	height: 50px;
+}

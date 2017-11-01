@@ -1,0 +1,15 @@
+@font-face {
+	font-family: lobster;
+	src: url(../fonts/Lobster/Lobster-Regular.ttf);
+}
+
+@font-face {
+	font-family: indieflower; /* NO usar en titulos*/
+	src:url(../fonts/Indie_Flower/IndieFlower.ttf);
+}
+
+@font-face {
+	font-family: pacifico; /* NO usar en titulos*/
+	src:url(../fonts/Pacifico/Pacifico.ttf);
+}
+

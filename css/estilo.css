@@ -1,0 +1,11 @@
+@import url('fonts.css');
+
+.container section h1 {
+	font-family: pacifico;
+	color: red;
+}
+
+body {
+	min-height: 100vh;
+}
+
